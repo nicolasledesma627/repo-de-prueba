@@ -1,6 +1,6 @@
 # repo-de-prueba
-repositorio de prueba
+DESCRIPCIÓN DEL PROYECTO
 
-Primer linea agregada
+El proyecto consiste...
 Segunda linea agregada
 Tercera linea agregada
